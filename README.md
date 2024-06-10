@@ -10,7 +10,8 @@
 
 NOTE - you can change the dividing numbers as you want. 
 
-![screenshot](./app_screenshot.png)
+![screenshot](./img/screen_1.jpg)
+![screenshot](./img/screen_2.jpg)
 
 
 ## Built With
@@ -33,13 +34,7 @@ Run it from a browser.
 
 👤 **Zayleth Alejandra Vegas Serfatty**
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@Zayleth]()
 - Instagram: @zaylethvs
 - LinkedIn: [LinkedIn]()
 
