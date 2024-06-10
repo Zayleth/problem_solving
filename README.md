@@ -11,8 +11,8 @@ Instead of saying the number, players have to say:
 
 NOTE - you can change the dividing numbers as you want. 
 
-![screenshot](./img/screen_1.jpg)
-![screenshot](./img/screen_2.jpg)
+![screenshot](./img/screen_1%20(1).jpg)
+![screenshot](./img/screen_2%20(1).jpg)
 
 
 ## Built With
@@ -26,10 +26,10 @@ NOTE - you can change the dividing numbers as you want.
 
 
 ## Getting Started
-- To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps.
 
-Clone the repository in Git.
-Run it from a browser.
+- Clone the repository in Git.
+- Run it from a browser.
 
 ## Authors
 
